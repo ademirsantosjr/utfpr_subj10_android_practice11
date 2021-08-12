@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CallActivityWithImplicitIntent</string>
+    <string name="utfpr_wesite">www.utfpr.edu.br</string>
+    <string name="there_is_no_app_to_run_this_action">There is no app to run this action</string>
 </resources>
